@@ -1,5 +1,7 @@
 {
   "name": "store-rating-portal",
   "private": true,
-  "scripts": {}
+  "scripts": {
+    "build": "npm install && cd frontend && npm install && npm run build"
+  }
 }
