@@ -8,8 +8,8 @@
     "backend": {
       "root": "backend",
       "entrypoint": "server.js",
-      "builder": "vercel-node",
-      "runtime": "nodejs18.x",
+
+
       "routePrefix": "/api"
     }
   }
